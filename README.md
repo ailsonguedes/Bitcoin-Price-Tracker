@@ -12,7 +12,7 @@ Esse programa foi desenvolvido para rastrear a cotação do bitcoin em tempo rea
 ## ⚙️ Como Funciona
 
 -   Inicialização da aplicação demonstra na parte superior da tela uma label (Bitcoin Price Tracker). 
--   Logo abaixo são apresentadas as labels com as informações da cotação atual do bitcoin em: Dolar $, Euro €, Real R$ e Yuan ¥
+-   Logo abaixo são apresentadas as labels com as informações da cotação atual do bitcoin em: Dolar, Euro, Real e Yuan
 -   As cotações são atualizadas a cada um segundo.
 
 ## 💻 Como executar o código
